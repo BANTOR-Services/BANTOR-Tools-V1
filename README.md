@@ -10,5 +10,5 @@ For Windows 10 Users to run the file python main.py
 
 For Win11 users : python main.py
 
-Premium Features Soon : Faster ( like mine ) obfuscate ( protect )
+New Premium Features obfuscate ( protect )
 
