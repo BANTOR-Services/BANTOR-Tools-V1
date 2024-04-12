@@ -1,5 +1,4 @@
 # BANTOR-Tools-V1
-Nice Script/Configs/Tools
 bantor funny bot n'ker ( free ) made by bantor-configs-team , ( easy + deobf src) ( with funny name lmfao )
 https://bantor.carrd.co
 #Setup
